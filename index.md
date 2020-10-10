@@ -1,4 +1,4 @@
 # Letro
 
-- [Castellano](https://es.letro.app/).
-- [English](https://en.letro.app/).
+- [Go to English site](./en/).
+- [Visitar sitio web en castellano](./es/).
