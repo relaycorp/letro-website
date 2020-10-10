@@ -1,4 +1,3 @@
-# Letro
+# Letro website
 
-- [Castellano](https://es.letro.app/).
-- [English](https://en.letro.app/).
+TODO
