@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "tech.relaycorp.letro",
+    "sha256_cert_fingerprints":
+    ["B7:5B:8A:54:52:EB:97:30:B2:15:7B:6D:1A:17:9E:4F:47:B0:D5:30:B5:3E:F2:94:C5:99:C3:0F:EC:23:0D:49"]
+  }
+}]
