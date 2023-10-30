@@ -20,12 +20,21 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - run: mkdir -p output
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build
         uses: actions/jekyll-build-pages@v1
+        with:
+          destination: "./output/en"
+      - name: Copy static assets
+        run: |
+          cp -r .well-known output/
+          cp -r es output/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
+        with:
+          path: output/en
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
