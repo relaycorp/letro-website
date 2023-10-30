@@ -30,6 +30,6 @@ remote_theme: "pmarsceill/just-the-docs@v0.7.0"
 logo: "/assets/logo.png"
 search_enabled: false
 aux_links:
-  "GitHub repo": "https://github.com/CheLetro/website-root"
+  "GitHub repo": "https://github.com/relaycorp/letro-website"
   "Relaycorp": "https://relaycorp.tech"
 heading_anchors: true
