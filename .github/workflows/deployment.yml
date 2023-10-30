@@ -27,7 +27,7 @@ jobs:
         uses: actions/jekyll-build-pages@v1
       - name: Copy static files
         run: |
-          ls -la _site
+          ls -la _site _site/.well-known
           whoami
           cp -r ./.well-known ./_site/
           cp -r ./es ./_site/
