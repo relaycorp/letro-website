@@ -20,6 +20,8 @@ We're very grateful for your interest in Letro, but we need to be upfront about 
 - **You could lose your data at any time**, due to either a bug or a breaking change in a newer version of the app. If you share anything important, make a copy outside Letro.
 - **We've requested an independent security audit from a reputable team**. We've taken every reasonable measure to ensure that Letro is secure, but you shouldn't take our word for it until the report is published. So, please don't use Letro for anything sensitive yet.
 
+Also, please make sure to read our [Terms of Service](./legal/tos.md) and [Privacy Policy](./legal/privacy-policy.md).
+
 ## Important limitations
 
 Except for some minimal, non-sensitive metadata stored on [our server](https://docs.relaycorp.tech/letro-server/), all your data is stored on your own devices. This means that:
@@ -28,7 +30,7 @@ Except for some minimal, non-sensitive metadata stored on [our server](https://d
 - You _shouldn't_ use the same Letro account id across multiple devices. If you do this, each device would have a different set of contacts -- and you can't communicate with a contact you have on another phone, even if your id is the same.
 - Conversations and contacts can't be migrated to other phones or restored if you reinstall Letro.
 
-We have plans to address these limitations in the future in a privacy-respecting manner.
+We have plans to address these limitations in a privacy-respecting manner.
 
 ## Known issues
 
