@@ -46,6 +46,10 @@ To work around this issue, you can either:
 - Switch to another network on Android (for example, from WiFi to 5G). You can revert this immediately.
 - Force-stop Awala, then open Letro.
 
+### Reinstalling Awala requires reinstalling Letro
+
+If you reinstall Awala or clear its data, you should also reinstall Letro or clear its data. This is a limitation in Awala itself.
+
 ## Opting out
 
 To leave the testing programme:
