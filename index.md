@@ -4,11 +4,9 @@ nav_order: 0
 
 # Letro
 
-Like email, but end-to-end encrypted, spam-free, phishing-free and works without the Internet too.
-
-## Overview
-
 Letro is a service like email, but it's designed to solve the challenges we face in the 21st century. Like email, Letro will be decentralised and based on open standards. Unlike email, all messages will be end-to-end encrypted, spamming and phishing will be virtually impossible, and users could send and receive messages even if they don't have access to the Internet.
+
+{% include youtube_video.html id='FDQRpHKkrQU' %}
 
 ## Goals
 
