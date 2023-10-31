@@ -15,6 +15,8 @@ This is the tentative timeline for the beta testing programme -- all dates are s
 2. **Public beta: January to mid 2024**. We'll make the app available in countries that aren't subject to severe censorship; we'll start with 2-3 countries, and gradually expand from there. We won't release breaking changes intentionally.
 3. **General availability: mid 2024**. Once Awala, Letro and VeraId have been independently audited, and we've addressed any major issues, we'll make the app available worldwide.
 
+Note that the security audits depend on third parties, so we can't commit to a specific date for the general availability.
+
 ## Install Letro
 
 To test Letro, you should:
