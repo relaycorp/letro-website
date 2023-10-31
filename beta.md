@@ -9,8 +9,9 @@ We're currently running an [invite-only](https://play.google.com/console/about/c
 
 ## Install Letro
 
-1. [Join the beta testing programme](https://play.google.com/apps/internaltest/4700736795526212865).
-2. Install Letro from the [Play Store](https://play.google.com/store/apps/details?id=tech.relaycorp.letro&hl=en-US&ah=p1C05uMiobvkkSCCAfeMRoorAxk).
+1. Accept the invite to the [Letro beta testers Google Group](https://groups.google.com/g/letro-beta-testers). This is a low-traffic, announcement-only mailing that controls access to the beta testing programme on the Play Store. You can leave the group at any time and only admins can see the members.
+2. [Join the beta testing programme](https://play.google.com/apps/internaltest/4700736795526212865).
+3. Install Letro from the [Play Store](https://play.google.com/store/apps/details?id=tech.relaycorp.letro&hl=en-US&ah=p1C05uMiobvkkSCCAfeMRoorAxk).
 
 ## Important considerations
 
@@ -44,6 +45,14 @@ To work around this issue, you can either:
 
 - Switch to another network on Android (for example, from WiFi to 5G). You can revert this immediately.
 - Force-stop Awala, then open Letro.
+
+## Opting out
+
+To leave the testing programme:
+
+1. Leave the [testing track on the Play Store](https://play.google.com/apps/internaltest/4700736795526212865).
+2. Leave the [Letro beta testers Google Group](https://groups.google.com/g/letro-beta-testers).
+3. Uninstall Letro and Awala.
 
 ## Help and feedback
 
