@@ -6,7 +6,7 @@ nav_order: 0
 
 Letro is a service like email, but it's designed to solve the challenges we face in the 21st century.
 
-Like email, Letro is decentralised and based on open standards. Unlike email, all messages are end-to-end encrypted, spamming and phishing will be virtually impossible, and users could send and receive messages even if they don't have access to the Internet -- all thanks to [Awala](https://awala.network).
+Like email, Letro is decentralised and based on open standards. Unlike email, all messages are end-to-end encrypted, spamming and phishing are be virtually impossible, and users can send and receive messages even if they don't have access to the Internet -- all thanks to [Awala](https://awala.network).
 
 Here's Letro in action:
 
