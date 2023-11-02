@@ -21,7 +21,7 @@ Note that the security audits depend on third parties, so we can't commit to a s
 
 To test Letro, you should:
 
-1. Accept the invite to the [Letro beta testers Google Group](https://groups.google.com/g/letro-beta-testers). This is a low-traffic, announcement-only mailing that controls access to the beta testing programme on the Play Store. You can leave the group at any time and only admins can see the members.
+1. Accept the invite to the [Letro beta testers Google Group](https://groups.google.com/g/letro-beta-testers). This is a low-traffic, announcement-only mailing list that controls access to the beta testing programme on the Play Store. You can leave the group at any time and only admins can see the members.
 2. [Join the beta testing programme](https://play.google.com/apps/internaltest/4700736795526212865).
 3. Install Letro from the [Play Store](https://play.google.com/store/apps/details?id=tech.relaycorp.letro&hl=en-US&ah=p1C05uMiobvkkSCCAfeMRoorAxk).
 
