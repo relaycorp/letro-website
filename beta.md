@@ -9,10 +9,10 @@ We're currently running an [invite-only](https://play.google.com/console/about/c
 
 ## Timeline
 
-This is the tentative timeline for the beta testing programme -- all dates are subject to change:
+This is the tentative timeline for the beta testing programme — all dates are subject to change:
 
-1. **Private beta: November to December 2023**. We'll invite a small group of people to test Letro and provide feedback. We're likely to release breaking changes that would reset the data stored on your device by an older version of Letro, but we'll try our best to minimise this.
-2. **Public beta: January to mid 2024**. We'll make the app available in countries that aren't subject to severe censorship; we'll start with 2-3 countries, and gradually expand from there. We won't release breaking changes intentionally.
+1. **Private beta: November to January 2024**. We'll invite a small group of people to test Letro and provide feedback. We're likely to release breaking changes that would reset the data stored on your device by an older version of Letro, but we'll try our best to minimise this.
+2. **Public beta: February to mid 2024**. We'll make the app available in countries that aren't subject to severe censorship; we'll start with 2-3 countries, and gradually expand from there. We won't release breaking changes intentionally.
 3. **General availability: mid 2024**. Once Awala, Letro and VeraId have been independently audited, and we've addressed any major issues, we'll make the app available worldwide.
 
 Note that the security audits depend on third parties, so we can't commit to a specific date for the general availability.
