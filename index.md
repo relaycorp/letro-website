@@ -10,7 +10,7 @@ Like email, Letro is decentralised and based on open standards. Unlike email, al
 
 Here's Letro in action:
 
-{% include youtube_video.html id='FDQRpHKkrQU' %}
+{% include youtube_video.html id='TKM5qHPRDFY' %}
 
 ## About
 
