@@ -11,8 +11,8 @@ We're currently running an [invite-only](https://play.google.com/console/about/c
 
 This is the tentative timeline for the beta testing programme — all dates are subject to change:
 
-1. **Private beta: November 2023 to March 2024**. We'll invite a small group of people to test Letro and provide feedback. We're likely to release breaking changes that would require resetting the app data, but we'll try our best to minimise this.
-2. **Public beta: April 2024 to early 2025**. We'll make the app available in a handful of countries that aren't subject to severe Internet censorship, as well as select partners. We won't release breaking changes intentionally.
+1. **Private beta: November 2023 to May 2024**. We'll invite a small group of people to test Letro and provide feedback. We're likely to release breaking changes that would require resetting the app data, but we'll try our best to minimise this.
+2. **Public beta: May 2024 to early 2025**. We'll make the app available in a handful of countries that aren't subject to severe Internet censorship, as well as select partners. We won't release breaking changes intentionally.
 3. **General availability: early 2025 (estimated)**. We'll make Letro available to the public worldwide as soon as the following happens:
    - Awala, Letro and VeraId have been [independently audited](https://github.com/relaycorp/relayverse/issues/31), and we've addressed any major issues.
    - We've secured funds to improve the reliability of public goods operated by Relaycorp and their associated hosting costs. We started this process in early 2024.
