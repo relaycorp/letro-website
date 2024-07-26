@@ -35,7 +35,7 @@ We will update this privacy policy as needed so that it is current, accurate, an
 
 ## Terms
 
-Please also read our [Terms](./tos.md) which also governs the terms of this Privacy Policy.
+Please also read our [Terms](tos.md) which also governs the terms of this Privacy Policy.
 
 ## Contact Us
 

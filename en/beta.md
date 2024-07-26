@@ -33,7 +33,7 @@ We need to be upfront about the risks of using it at this point:
 - **You may lose your data at any time**, due to either a bug or a breaking change in a newer version of the app. If you share anything important, make a copy outside Letro.
 - **We've requested an independent security audit from a reputable team**. We've taken every reasonable measure to ensure that Letro is secure, but you shouldn't take our word for it until the report is published. So, please don't use Letro for anything sensitive yet.
 
-Also, please make sure to read our [Terms of Service](./legal/tos.md) and [Privacy Policy](./legal/privacy-policy.md).
+Also, please make sure to read our [Terms of Service](legalos.md) and [Privacy Policy](legalrivacy-policy.md).
 
 ## Important limitations
 

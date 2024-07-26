@@ -12,21 +12,13 @@ defaults:
       type: pages
     values:
       layout: page
-include:
-  - ".well-known"
-  - "es"
 exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
-  - .idea
-  - README.md
-  - es
-  - .well-known
-  - index.html
 
 # Theme settings
-remote_theme: "pmarsceill/just-the-docs@v0.7.0"
+remote_theme: "pmarsceill/just-the-docs@v0.8.2"
 logo: "/assets/logo.png"
 search_enabled: false
 aux_links:

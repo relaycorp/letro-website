@@ -20,7 +20,7 @@ For ease of reference, when referring to Letro in these terms of service, we are
 
 **Privacy of user data**. Letro does not sell, rent or monetize your personal data or content in any way -- ever.
 
-Please read our [Privacy Policy](./privacy-policy.md) to understand how we safeguard the information you provide when using our Services. For the purpose of operating our Services, you agree to our data practices as described in our Privacy Policy, as well as the transfer of your encrypted information and metadata to the United States and other countries where we have or use facilities, service providers or partners. Examples would be Third Party Providers processing your support tickets.
+Please read our [Privacy Policy](privacy-policy.md) to understand how we safeguard the information you provide when using our Services. For the purpose of operating our Services, you agree to our data practices as described in our Privacy Policy, as well as the transfer of your encrypted information and metadata to the United States and other countries where we have or use facilities, service providers or partners. Examples would be Third Party Providers processing your support tickets.
 
 **Software**. In order to enable new features and enhanced functionality, you consent to downloading and installing updates to our Services.
 
