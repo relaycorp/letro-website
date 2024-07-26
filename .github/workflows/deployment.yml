@@ -28,11 +28,15 @@ jobs:
         with:
           source: "./en"
           destination: "./output/en"
+      - name: Build Spanish site
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: "./es"
+          destination: "./output/es"
       - name: Copy static assets
         run: |
           cp -r index.html output/
           cp -r .well-known output/
-          cp -r es output/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:

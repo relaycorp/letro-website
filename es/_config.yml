@@ -1,0 +1,27 @@
+title: "Letro"
+description: "Como el email, pero con cifrado de punta a punta, sin spam, sin suplantación de identidad y no requiere de acceso a Internet"
+baseurl: /es
+
+markdown: kramdown
+liquid:
+  error_mode: strict
+  strict_filters: true
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+# Theme settings
+remote_theme: "pmarsceill/just-the-docs@v0.8.2"
+logo: "/assets/logo.png"
+search_enabled: false
+aux_links:
+  "GitHub repo": "https://github.com/relaycorp/letro-website"
+  "Relaycorp": "https://relaycorp.tech"
+heading_anchors: true
