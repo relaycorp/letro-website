@@ -37,7 +37,7 @@ jobs:
         run: |
           cp -r index.html output/
           cp -r .well-known output/
-          cp -r archive output/
+          cp -r archives output/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
