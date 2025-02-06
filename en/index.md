@@ -16,4 +16,7 @@ Here's Letro in action:
 
 Letro is an [open source](https://github.com/search?q=topic%3Aletro+org%3Arelaycorp&type=repositories) project by [Relaycorp](https://relaycorp.tech), the company behind [Awala](https://awala.network) and [VeraId](https://veraid.net) (which also power Letro). Letro has been funded by the [Open Technology Fund](https://opentech.fund).
 
+Letro underwent an independent security audit by [Radically Open Security](https://radicallyopensecurity.com) in December 2024, commissioned by the Open Technology Fund.
+[Read report](/archives/letro-security-audit-2024.pdf).
+
 "Letro" is an [Ido](https://www.idolinguo.org.uk/general.htm) word which translates to "letter" (as in mail). It's pronounced _LEH-troh_, with a trilled "R" like in Spanish.
