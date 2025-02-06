@@ -18,5 +18,8 @@ Aquí puedes ver a Letro en acción:
 Letro es un proyecto de [código abierto](https://github.com/search?q=topic%3Aletro+org%3Arelaycorp&type=repositories) de [Relaycorp](https://relaycorp.tech), la empresa detrás de [Awala](https://awala.red) y [VeraId](https://veraid.net) (las cuales Letro también usa).
 Letro ha sido financiado por el [Open Technology Fund](https://opentech.fund).
 
+Letro se sometió a una auditoría de seguridad independiente por [Radically Open Security](https://radicallyopensecurity.com) en diciembre de 2024, encargada por el Open Technology Fund.
+[Leer informe en inglés](/archives/letro-security-audit-2024.pdf).
+
 "Letro" es una palabra del idioma [ido](https://www.idolinguo.org.uk/general.htm) que se traduce como "carta".
 Se pronuncia _LEH-troh_, con la "R" como la del castellano.
